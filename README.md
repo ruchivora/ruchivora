@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchi)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchivora&layout=compact)
 
 
 <!--
