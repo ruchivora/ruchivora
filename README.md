@@ -11,7 +11,7 @@
 
 🌐 Let's connect and collaborate on open-source projects! 🌐
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchivora&layout=compact)
+
 
 
 
