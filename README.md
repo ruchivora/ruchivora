@@ -7,7 +7,7 @@
 
 - Proficient in databases (𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐬, 𝐄𝐥𝐚𝐬𝐭𝐢𝐜𝐬𝐞𝐚𝐫𝐜𝐡, 𝐒𝐨𝐥𝐫) for optimized data solutions.
 
-- 𝟑+ 𝐲𝐞𝐚𝐫𝐬 of experience collaborating with cross-functional teams, aligning solutions with business goals.
+- 𝟑+ 𝐲𝐞𝐚𝐫𝐬 of experience collaborating with cross-functional teams (design, product, marketing, sales), aligning solutions with business goals.
 
 🌐 Let's connect and collaborate on open-source projects! 🌐
 
