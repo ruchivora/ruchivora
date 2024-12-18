@@ -11,7 +11,7 @@
 
 - Beyond development, I enjoy sharing my knowledge through tech blogging and engaging with a growing community of over 400 subscribers.
 
-- Feel free to explore my blog: https://medium.com/@ruchivora16
+- Link to my medium blog: https://medium.com/@ruchivora16
 
 - Link to my portfolio: https://ruchi-vora-portfolio.netlify.app/
 
