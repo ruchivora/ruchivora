@@ -13,6 +13,8 @@
 
 - Feel free to explore my blog: https://medium.com/@ruchivora16
 
+- Link to my portfolio: https://ruchi-vora-portfolio.netlify.app/
+
 
 
 
