@@ -3,14 +3,15 @@
 
 🚀 Software Engineer at Uniqode | SDE-2 🚀
 
-- Specializing in creating scalable and user-friendly web apps with 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭, 𝐀𝐧𝐠𝐮𝐥𝐚𝐫, 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬, and various 𝐀𝐖𝐒 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬.
+- With over 3.7 years of experience in developing dynamic web applications, I specialize in creating scalable and user-friendly solutions for fast-paced startups.
 
-- Proficient in databases (𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐬, 𝐄𝐥𝐚𝐬𝐭𝐢𝐜𝐬𝐞𝐚𝐫𝐜𝐡, 𝐒𝐨𝐥𝐫) for optimized data solutions.
+- While my expertise is primarily focused on front-end development using frameworks like React, Angular and Next.js. I have also contributed to back-end tasks with technologies like Node.js, enabling me to collaborate effectively across the full stack. 
 
-- 𝟑+ 𝐲𝐞𝐚𝐫𝐬 of experience collaborating with cross-functional teams (design, product, marketing, sales), aligning solutions with business goals.
+- I’m passionate about building user-centric applications that are both scalable and secure.
 
-🌐 Let's connect and collaborate on open-source projects! 🌐
+- Beyond development, I enjoy sharing my knowledge through tech blogging and engaging with a growing community of over 400 subscribers.
 
+- Feel free to explore my blog: https://medium.com/@ruchivora16
 
 
 
